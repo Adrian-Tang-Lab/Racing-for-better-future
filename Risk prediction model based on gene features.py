@@ -69,7 +69,7 @@ logging.basicConfig(
 )
 
 
-file_path = r"D:/Sepsis/NM version/risk_prediction_model/10geneexp_group.xlsx"
+file_path = r"10_gene_exp_group.xlsx"
 data = pd.read_excel(file_path)
 samples = data.iloc[:, 0]
 labels = data.iloc[:, 1]
