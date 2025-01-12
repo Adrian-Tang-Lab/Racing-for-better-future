@@ -1,4 +1,4 @@
-========================== Interdisciplinary Research for Better Lives ==========================
+========= Interdisciplinary Research for Better Lives =========
 
 Developed by:
     Dr. Adrian Tang and Dr. Jasper Chu's Collaborative Research Networks
