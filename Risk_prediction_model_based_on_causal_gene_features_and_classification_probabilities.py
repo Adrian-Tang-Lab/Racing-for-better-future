@@ -7,7 +7,7 @@ Developed by:
     Dr. Adrian Tang and Dr. Jasper Chu's Collaborative Research Networks
 
 Project:
-    Binary Classification Based on Gene Expression Matrix
+    Binary Classification Based on Gene Expression Matrix and Classification Probabilities Predicted by Five Machine Learning Models 
 
 Acknowledgments:
     We thank all investigators who participated in this large-scale translation study for their devotion.
@@ -104,7 +104,7 @@ def load_and_preprocess_data(file_path, variance_threshold=0.1, k_best=10, scale
 
     return X_resampled, y_resampled, final_selected_features
 
-file_path = r"risk_prediction_model/10geneexp_group.xlsx"
+file_path = r"10_gene_exp_group.xlsx"
 
 X_resampled, y_resampled, selected_features = load_and_preprocess_data(file_path)
 
