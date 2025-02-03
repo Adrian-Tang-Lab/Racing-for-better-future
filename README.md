@@ -7,7 +7,7 @@ Project:
    Deep-learning-based postoperative sepsis risk prediction model
 
 Acknowledgments:
-    We thank all investigators who participated in this large-scale translation study for their devotion.
+    We thank all investigators who participated in this large-scale translational study for their devotion.
 
 Contact Information:
     Dr. Adrian Tang: 039319101@njucm.edu.cn
